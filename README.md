@@ -18,7 +18,7 @@ A responsive and user-friendly Currency Converter Web App built using HTML, CSS,
 - Netlify  
 
 ## 📸 Preview
-![Currency Converter Screenshot](CurrencyConvert.png)
+![Currency Converter Screenshot](CurrencyConver.png)
 
 ## 👨‍💻 Developed By
 Samyak Jain
