@@ -17,5 +17,8 @@ A responsive and user-friendly Currency Converter Web App built using HTML, CSS,
 - Exchange Rate API  
 - Netlify  
 
+## 📸 Preview
+![Currency Converter Screenshot](CurrencyConvert.png)
+
 ## 👨‍💻 Developed By
 Samyak Jain
